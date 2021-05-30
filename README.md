@@ -42,18 +42,6 @@ More information on how to use the genetic algorithm can be found at the MATLAB 
 The algorithm was tested different waveforms of the synthesizer such as sawtooth, rectangle and triangle. The results indicate that the genetic algorithm can
 find close to optimal parameters for most waveforms and configuartions. The sound generated from the GA is also perceptually similar to the reference sound.
 
-## Sound samples
-
-Here are some sound samples and their corresponding sound sample found by the GA. 
-1. sawtooth reference : 
-
-https://user-images.githubusercontent.com/85062886/120113268-fc1e9b80-c179-11eb-8227-b97c08601b1e.mp4
-
-
-2. sawtooth	GA sample
-
-https://user-images.githubusercontent.com/85062886/120113260-f1fc9d00-c179-11eb-8481-3cd80a41cb1b.mp4
-
 
 
 
