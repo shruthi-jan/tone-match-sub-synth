@@ -1,0 +1,15 @@
+ADSR_envelope1.obj
+abs.obj
+eml_rand_mt19937ar_stateful.obj
+lowpass_2.obj
+rand.obj
+rdivide.obj
+rtGetInf.obj
+rtGetNaN.obj
+rt_nonfinite.obj
+synth.obj
+synth_data.obj
+synth_emxAPI.obj
+synth_emxutil.obj
+synth_initialize.obj
+synth_terminate.obj
